@@ -85,6 +85,3 @@ Ankit Patel
 
 ---
 
-## 🔗 GitHub Repository
-
-(Add your repository link here)
